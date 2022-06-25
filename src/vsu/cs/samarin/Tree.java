@@ -1,8 +1,6 @@
-package vsu.cs.soshich;
+package vsu.cs.samarin;
 
-import java.util.ArrayList;
 import java.util.Stack;
-import java.util.regex.Pattern;
 
 class Tree {
     private Node rootNode; // корневой узел

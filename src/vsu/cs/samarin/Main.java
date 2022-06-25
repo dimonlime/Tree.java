@@ -1,6 +1,4 @@
-package vsu.cs.soshich;
-
-import java.util.ArrayList;
+package vsu.cs.samarin;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package vsu.cs.soshich;
+package vsu.cs.samarin;
 
 class Node {
     private int value; // Ключик
